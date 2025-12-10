@@ -16,6 +16,16 @@ A Next.js app for generating QR codes with a focus on flexibility. The current U
 -   Export: download as PNG, SVG, PDF; copy to clipboard
 -   Accessibility: label input, ARIA for form controls
 
+## Future Plans: Barcode Generator API Actor
+
+-   Output formats: PNG, SVG, PDF for server-side and batch use
+-   Barcode standards: UPC, EAN, Code 128, QR, Data Matrix
+-   Appearance controls: colors, fonts, sizing to match branding
+-   Batch processing: create multiple barcodes in one request
+-   Cloud storage: deliver and archive generated assets automatically
+-   QR error correction: improve readability and data integrity
+-   Validation checks: confirm payload compatibility with the selected format
+
 ## Getting Started
 
 1. Install dependencies
